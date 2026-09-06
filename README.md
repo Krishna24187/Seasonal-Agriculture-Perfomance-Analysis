@@ -54,7 +54,7 @@ Agricultural productivity and farm profitability are heavily impacted by seasona
 ---
 
 ## 👤 Author & Contributor
-* **Name:** [Nathbava Krishna]
+* **Name:** Nathbava Krishna
 * **Internship:** VOIS AICTE Industry Internship Program (2026–2027)
 
 ---
